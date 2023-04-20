@@ -1,6 +1,3 @@
-import pandas as pd
-import numpy as np
-import string
 numpy==1.20.1
 streamlit==0.76.0
 seaborn==0.11.1
@@ -9,6 +6,9 @@ plotly==4.14.3
 pandas==1.2.3
 joblib==0.16.0
 scikit-learn
+import pandas as pd
+import numpy as np
+import string
 from string import digits
 import re
 from sklearn.utils import shuffle
