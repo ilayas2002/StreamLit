@@ -8,7 +8,6 @@
 #scikit-learn
 import pandas as pd
 import numpy as np
-import keras
 import string
 from string import digits
 import re
