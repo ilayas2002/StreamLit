@@ -3,7 +3,6 @@ import numpy as np
 import string
 from string import digits
 import re
-import sklearn
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
 # tenserflow as tf
